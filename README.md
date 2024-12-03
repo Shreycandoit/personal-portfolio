@@ -1,4 +1,4 @@
-# [anniew.xyz](https://anniew.xyz/) - v2.5
+# My Portfolio - v2.5
 
 This is the source code for my personal portfolio website.
 
