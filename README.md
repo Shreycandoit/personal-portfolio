@@ -11,7 +11,7 @@ This is the source code for my personal portfolio website.
 </p>
 
 <p align="center">
-  <a href="http://anniew.xyz"><img src=".img/project-preview/shrey-project preview.PNG" width="700px" alt="landing page"></a>
+  ![image](https://github.com/user-attachments/assets/8dad1628-afa9-4e8c-b627-2541edcc7d4f)
 </p>
 
 ## Table of Contents
