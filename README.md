@@ -1,4 +1,4 @@
-# [Shreyansh.xyz](https://zingy-kataifi-38808f.netlify.app/) - v2.5
+# [Shreyansh.xyz](https://zingy-kataifi-38808f.netlify.app/) - v2.8
 
 This is the source code for my personal portfolio website.
 
@@ -11,8 +11,8 @@ This is the source code for my personal portfolio website.
 </p>
 
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/8dad1628-afa9-4e8c-b627-2541edcc7d4f)
-</p>
+![image](https://github.com/user-attachments/assets/0af28ec3-3292-4894-8087-a71b1c52c394)    
+  </p>
 
 ## Table of Contents
 
