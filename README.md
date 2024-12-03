@@ -1,4 +1,4 @@
-# [Shreyansh.xyz](https://zingy-kataifi-38808f.netlify.app/) - v2.8
+# [Shreyansh.xyz](https://earnest-travesseiro-a81fa4.netlify.app/) - v2.8
 
 This is the source code for my personal portfolio website.
 
