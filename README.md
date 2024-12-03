@@ -1,4 +1,4 @@
-# [anniew.xyz](https://anniew.xyz/) - v2.5
+# [Shreyansh.xyz](https://zingy-kataifi-38808f.netlify.app/) - v2.5
 
 This is the source code for my personal portfolio website.
 
@@ -11,7 +11,7 @@ This is the source code for my personal portfolio website.
 </p>
 
 <p align="center">
-  <a href="http://anniew.xyz"><img src="./img/project-preview/anniewxyz-preview.png" width="700px" alt="landing page"></a>
+  <a href="http://anniew.xyz"><img src="./img/project-preview/shrey-project preview" width="700px" alt="landing page"></a>
 </p>
 
 ## Table of Contents
@@ -49,17 +49,6 @@ This is the source code for my personal portfolio website.
 
 <a href="https://coolors.co/ffffff-1d263b-f08cae-399e5a-0fa3b1-6b818c"><img alt="Color Palette Screenshot" src="./img/readme/palette.png"></a>
 
-### Icon
-
-This is the icon of me on the Home and About pages.
-
-_Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
-
-<img alt="Me Icon" src="./img/me-icon.png" width="250px">
-<img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="250px">
-<img alt="Me Icon Gif" src="./img/me-icon.gif" width="250px">
-
----
 ## Built With
 
 - 💙 [HTML5](https://www.w3schools.com/html/)
@@ -74,12 +63,12 @@ _Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
 
 ## Creator
 
-Annie Wu ([anniedotexe](https://github.com/anniedotexe))
+Shreyansh Goushal 
 
 If you have any questions, comments, or concerns, feel free to contact me below.
 
 <p align="left">
-  <a href="mailto:anniewu2303@gmail.com"> 
+  <a href="mailto:goushalshreyansh@gmail.com"> 
     <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
   </a>
 </p>
